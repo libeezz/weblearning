@@ -1,2 +1,2 @@
 # weblearning
-some assighnments
+some assignments
